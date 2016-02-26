@@ -1,2 +1,5 @@
 info:
   description: Contour Config Server - Remote Testing
+
+prop: 
+  uri: http://prop.io
